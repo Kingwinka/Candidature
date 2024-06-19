@@ -1,14 +1,13 @@
-# Candidature de Kinga Wenta pour le poste de Scrum Master
+# Kinga Wenta's Application for the Scrum Master Position
 
-Bienvenue sur mon repository GitHub dédié à ma candidature pour le poste de Scrum Master.
+Welcome to my GitHub repository dedicated to my application for the Scrum Master position.
 
-## Contenu du Repository
+## Repository Contents
 
-- **[Lettre de Motivation](Lettre_de_Motivation.md)** : Découvrez ma motivation et mon parcours.
-- **[CV](CV.pdf)** : Consultez mon CV pour un aperçu détaillé de mon expérience et de mes compétences.
-
+- *[Motivation Letter](motivation.md)*: Discover my motivation and background.
+- *[Resume](CV.pdf)*: View my resume for a detailed overview of my experience and skills.
 
 ## Contact
 
-- **Email** : kinwenphone@icloud.com
-- **LinkedIn** : [Votre Profil LinkedIn](https://www.linkedin.com/in/king-master)
+- *Email*: kinwenphone@icloud.com
+- *LinkedIn*: [LinkedIn Profile](https://www.linkedin.com/in/king-master)
