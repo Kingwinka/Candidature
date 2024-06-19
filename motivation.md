@@ -1,4 +1,4 @@
-# Lettre de Motivation
+# Motivation letter
 
 *Kinga Wenta*  
 *Location:* Montpellier, Occitanie, France  
