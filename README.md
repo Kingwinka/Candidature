@@ -11,4 +11,4 @@ Bienvenue sur mon repository GitHub dédié à ma candidature pour le poste de S
 ## Contact
 
 - **Email** : kinwenphone@icloud.com
-- **LinkedIn** : [Votre Profil LinkedIn](https://www.linkedin.com/in/votreprofil)
+- **LinkedIn** : [Votre Profil LinkedIn](https://www.linkedin.com/in/king-master)
